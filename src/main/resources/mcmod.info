@@ -1,0 +1,16 @@
+[{
+    "modid": "VanillaGuide",
+    "name": "Vanilla Guide",
+    "description": "An in-game book carefully documenting everything there is to know about Vanilla Minecraft!",
+    "version": "1.0.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authors": [ "Arcaratus" ],
+    "credits": "Tombenpotter and TehNut (TeamAmeriFrance) for creating Guide-API",
+    "logoFile": "",
+    "screenshots": [ ],
+    "parent": "",
+    "requiredMods": [ "" ],
+    "dependencies": [ "" ]
+}]

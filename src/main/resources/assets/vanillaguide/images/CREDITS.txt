@@ -1,0 +1,3 @@
+All images within the biomes folder are from the Minecraft Wiki: http://minecraft.gamepedia.com/
+
+The following images are also from the Minecraft Wiki: EnderdragonFlying.png (.gif) dungeon.png jungleTemple.png desertTemple.png strongholdPortalRoom.png mineshaft.png village.png desertVillage.png witchHut.png
